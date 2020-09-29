@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCamera2</string>
+    <string name="plusString">+</string>
+    <string name="minusString">-</string>
+</resources>
